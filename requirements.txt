@@ -1,0 +1,13 @@
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+python-dotenv
+faiss-cpu
+tiktoken
+fastapi
+uvicorn
+requests
+langchain
+langchain_huggingface
